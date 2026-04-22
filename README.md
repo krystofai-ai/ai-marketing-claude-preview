@@ -56,6 +56,6 @@ Celý postup — krok za krokem, od architektury skillů až po finální instal
 
 Přidej se a postav to taky — krok za krokem, od nuly.
 
-**→ Claude Code PRO -> https://www.skool.com/makers-club-7388/classroom/318c52a6?md=b83db04dce864d459af2ec07038ef79f **
+**→ Claude Code PRO -> https://www.skool.com/makers-club-7388/classroom/318c52a6?md=a94177c83b9f4e20a9d22243b0728c99 **
 
 _@krystof_ai_
