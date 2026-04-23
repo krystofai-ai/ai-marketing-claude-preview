@@ -48,8 +48,6 @@ Je to výsledek toho, že víš **jak správně komunikovat s AI** — jak struk
 
 Kdybych ti dal zdrojový kód bez kontextu, budeš stuck na prvním problému.
 
-Celý postup — krok za krokem, od architektury skillů až po finální instalaci — je uvnitř komunity.
-
 ---
 
 ### Celý postup + instalace je v Makers Clubu Claude Code PRO
